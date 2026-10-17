@@ -1,6 +1,5 @@
 # EDA Report — Montra Guest Experience Analytics
 
-**Phase 3 · Objective 2** · Source: `notebook/guest_experience_analysis.ipynb`, sections 2.1–2.9
 
 ## 1. Data examined
 

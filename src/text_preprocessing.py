@@ -62,7 +62,7 @@ def normalise_unicode(text: str) -> str:
     text = text.replace("—", " - ").replace("–", " - ")
     text = text.replace("’", "'").replace("‘", "'")
     text = text.replace("“", '"').replace("”", '"')
-    return text
+    return unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
 
 
 def expand_contractions(text: str) -> str:
