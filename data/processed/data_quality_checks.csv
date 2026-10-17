@@ -1,0 +1,12 @@
+rule,invalid_rows
+Rating is between 1 and 5,0
+Review text is present and not blank,0
+"Sentiment is negative, neutral or positive",0
+Review date is readable,0
+Booking dates are readable,0
+Stay duration is positive,0
+Stay duration agrees with dates,0
+Booking amount is positive,0
+Previous stays is non-negative,0
+Hotel star rating is between 1 and 5,0
+Hotel room count is positive,0

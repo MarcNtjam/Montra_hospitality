@@ -1,0 +1,26 @@
+hotel_id,hotel_name,location,star_rating,total_rooms
+1,The Birmingham Grand,Birmingham,4,254
+2,The London Heritage,London,5,234
+3,The Oxford Boutique,Oxford,3,146
+4,The Glasgow Heritage,Glasgow,3,84
+5,Glasgow Metropolitan,Glasgow,4,214
+6,The Leeds Grand,Leeds,3,177
+7,The Birmingham Heritage,Birmingham,4,80
+8,Belfast Metropolitan,Belfast,4,207
+9,Edinburgh Riverside Hotel,Edinburgh,3,71
+10,Southampton Park Hotel,Southampton,4,80
+11,Nottingham Riverside Hotel,Nottingham,5,254
+12,Manchester Metropolitan,Manchester,3,101
+13,The London Boutique,London,4,231
+14,Edinburgh Riverside Hotel,Edinburgh,3,215
+15,Liverpool Harbour Hotel,Liverpool,4,246
+16,Glasgow Skyline Hotel,Glasgow,3,157
+17,Leicester Harbour Hotel,Leicester,3,116
+18,The Aberdeen Grand,Aberdeen,4,118
+19,London Metropolitan,London,5,265
+20,The Belfast Boutique,Belfast,3,205
+21,Liverpool Metropolitan,Liverpool,5,168
+22,The Belfast Heritage,Belfast,4,224
+23,Nottingham Park Hotel,Nottingham,4,95
+24,Glasgow Harbour Hotel,Glasgow,3,197
+25,The Brighton Heritage,Brighton,3,209

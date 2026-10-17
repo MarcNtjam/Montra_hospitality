@@ -2,7 +2,4 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-mlruns/
-models/
-data/
 Montra Postgre URL.docx
